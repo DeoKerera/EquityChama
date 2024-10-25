@@ -5,4 +5,8 @@
     <color name="darkred">#732222</color>
     <color name="Mywhite">#FBF5F5</color>
     <color name="whitebg">#F1F1F1</color>
+    <color name="green_card">#F0F6F6</color>
+    <color name="accounts_color">#FDE2E2</color>
+    <color name="monthly_report_color">#C0AFAF</color>
+    <color name="savings_color">#E0E5EC</color>
 </resources>
